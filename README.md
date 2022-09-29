@@ -19,6 +19,6 @@ Provides real-time Wordcloud images that analyze the chat of live streaming serv
 
 ## Supported Sites:
 
-- YouTube.com - Livestreams, past broadcasts and premieres.
-- Twitch.tv - Livestreams, past broadcasts and clips.
-- Reddit.com - Livestreams, past broadcasts
+- [YouTube.com](https://www.youtube.com/) - Livestreams, past broadcasts and premieres.
+- [Twitch.tv](https://www.twitch.tv/) - Livestreams, past broadcasts and clips.
+- [Reddit.com](https://www.reddit.com) - Livestreams, past broadcasts
